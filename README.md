@@ -87,6 +87,4 @@ Email: scaizapa@espol.edu.ec
 GitHub: Sam-24-dev
 LinkedIn: Perfil Profesional
 
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para detalles.
-
 ⭐ Si te parece útil este análisis, dale una estrella al repositorio
