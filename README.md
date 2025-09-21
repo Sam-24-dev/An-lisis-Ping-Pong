@@ -1,7 +1,10 @@
 
 Análisis Estadístico — "Ping Pong" 🏓
+
 Autor: Samir Leonardo Caizapasto Hernández 
+
 Fechas: 15/09/2024 – 15/02/2025
+
 📊 Resumen
 Diseñé y ejecuté un estudio experimental con 309 observaciones para evaluar precisión en saques de ping pong bajo condiciones controladas. Implementé análisis descriptivo, bivariado, y validé un modelo binomial negativo (k=3, p=0.3) mediante pruebas de hipótesis e intervalos de confianza.
 
@@ -46,7 +49,7 @@ Efecto de fatiga: Correlación positiva sugiere aumento de tiempo con más inten
 Independencia de variables: No hay asociación significativa entre mano dominante y altura de saque
 
 🔗 Enlaces
-Reporte Interactivo: Ver análisis completo
+Reporte Interactivo: https://sam-24-dev.github.io/An-lisis-Ping-Pong/
 
 🛠️ Tecnologías Utilizadas
 R,JavaScript,HTML,CSS
