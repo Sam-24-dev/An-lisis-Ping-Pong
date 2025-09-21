@@ -1,5 +1,3 @@
-# An-lisis-Ping-Pong
-Análisis estadístico de precisión en saques de ping pong usando modelo binomial negativo
 
 Análisis Estadístico — "Ping Pong" 🏓
 Autor: Samir Leonardo Caizapasto Hernández 
@@ -18,22 +16,6 @@ Evaluar proporción de jugadores diestros en la población
 Analizar relación entre variables categóricas mano dominante vs altura de saque
 Cuantificar correlación entre número de intentos y tiempo de saque
 
-📁 Contenido del Repositorio
-📦 analisis-ping-pong-estadistica/
-├── 📄 README.md
-├── 📊 data/
-│   └── datos_pingpong.csv
-├── 📝 scripts/
-│   └── analisis_estadistico.R
-├── 📈 figures/
-│   ├── distribucion_intentos.png
-│   ├── correlacion_tiempo_intentos.png
-│   └── boxplot_mano_dominante.png
-├── 📑 docs/
-│   └── reporte_interactivo.html
-├── 📋 paper_pingpong.pdf
-└── 📊 presentacion_proyecto.pdf
-
 🔬 Metodología
 Variables Analizadas:
 Categóricas: Mano dominante, Altura de saque
@@ -50,15 +32,6 @@ Resultado Valor Interpretación Ajuste del modelo p = 0.6603✅ Se ajusta bien a
 Tiempo promedio 1.945 ± 0.320s Significativamente menor a 2s 
 Correlación intentos-tiempo r = 0.65📈 Correlación positiva moderada 
 Proporción diestros64.4% Similar a población general
-🔧 Cómo Reproducir
-Prerrequisitos:
-rinstall.packages(c("ggplot2", "dplyr", "e1071", "readxl", "knitr"))
-Ejecución:
- 1. Clonar repositorio
-git clone https://github.com/Sam-24-dev/analisis-ping-pong-estadistica.git
-# 2. Abrir en RStudio
-# 3. Ejecutar scripts/analisis_estadistico.R
-# 4. Ver docs/reporte_interactivo.html en navegador
 
 📊 Visualizaciones Clave
 Distribución de intentos: Histograma con ajuste binomial negativo
@@ -74,17 +47,14 @@ Independencia de variables: No hay asociación significativa entre mano dominant
 
 🔗 Enlaces
 Reporte Interactivo: Ver análisis completo
-Paper Académico: paper_pingpong.pdf
-Presentación: presentacion_proyecto.pdf
 
 🛠️ Tecnologías Utilizadas
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+R,JavaScript,HTML,CSS
+
 📧 Contacto
 Samir Leonardo Caizapasto Hernández
-Email: scaizapa@espol.edu.ec
+Email: samir.leonardo.caizapasto04@gmail.com
 GitHub: Sam-24-dev
-LinkedIn: Perfil Profesional
+LinkedIn: https://www.linkedin.com/in/samircaizapasto/
 
 ⭐ Si te parece útil este análisis, dale una estrella al repositorio
