@@ -49,7 +49,7 @@ Efecto de fatiga: Correlación positiva sugiere aumento de tiempo con más inten
 Independencia de variables: No hay asociación significativa entre mano dominante y altura de saque
 
 🔗 Enlaces
-Reporte Interactivo: https://sam-24-dev.github.io/An-lisis-Ping-Pong/
+Reporte Interactivo: https://sam-24-dev.github.io/Analisis-Ping-Pong/
 
 🛠️ Tecnologías Utilizadas
 R,JavaScript,HTML,CSS
